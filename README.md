@@ -1,4 +1,4 @@
-# Proyectos Comunutarios
+# Proyectos Comunitarios
 
 Proyectos construidos por la comunidad de Codeando México.
 
