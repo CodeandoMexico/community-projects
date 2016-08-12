@@ -2,7 +2,7 @@
 
 Proyectos construidos por la comunidad de Codeando México.
 
-## Nacional
+## Nacionales
 * [Topo Legal](https://github.com/CodeandoMonterrey/topolegal). Script para descargar los boletines judiciales en México.
 * [#TuPlataformaAbierta](https://github.com/CodeandoMexico/tu-plataforma-abierta). La versión abierta y comunitaria de la Plataforma Nacional de Transparencia.
 
