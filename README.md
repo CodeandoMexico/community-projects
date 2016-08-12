@@ -8,7 +8,7 @@ Proyectos construidos por la comunidad de Codeando México.
 
 ## CDMX
 
-* [Catastrophe](https://github.com/mroutis/catastrophe)
+* [Catastrophe](https://github.com/mroutis/catastrophe). Scraper to get cadastre accounts from México City.
 
 ## Guadalajara
 
