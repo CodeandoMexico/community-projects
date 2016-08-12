@@ -19,7 +19,7 @@ Proyectos construidos por la comunidad de Codeando México.
 ## León
 
 * [Desaparecidos](https://github.com/CodeandoLeon/desaparecidos). Unificación, analisis y distribución de una base de datos única de personas desaparecidas del estado de Guanajuato.
-* [Rutas Urbanas](https://github.com/CodeandoLeon/Rutas-Urbanas)Aplicación movil que muestra rutas, horarios, conductores y vías posibles de transporte público en León en tiempo real.
+* [Rutas Urbanas](https://github.com/CodeandoLeon/Rutas-Urbanas). Aplicación movil que muestra rutas, horarios, conductores y vías posibles de transporte público en León en tiempo real.
 
 ## Monterrey
 
