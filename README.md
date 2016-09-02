@@ -15,6 +15,7 @@ Proyectos construidos por la comunidad de Codeando México.
 * [Bikla-bots](https://github.com/CodeandoGuadalajara/mapeociclista). Aplicación que busca resolver la falta de datos para la toma de desiciones sobre politica publica sobre infraestructura ciclista.
 * [Datos 1*1](https://github.com/CodeandoGuadalajara/datos1x1). Base de datos organizada para temas culturales de fotógrafos de Latinoamérica.
 * [Scan-o-matic](https://github.com/CodeandoGuadalajara/scan-o-matic). Plataforma de orientación nutricional Evaluador de alimentación saludable.
+* [¿Qué has hecho alcalde?](https://github.com/CodeandoGuadalajara/que-has-hecho-alcalde). Proyecto que busca dar seguimiento a los compromisos hechos por Alcaldes del área Metropolitana de Guadalajara.
 
 ## León
 
